@@ -1,5 +1,5 @@
 datasets
-faiss-gpu
+faiss-cpu
 langchain
 langchain-community
 Markdown
